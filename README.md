@@ -27,5 +27,5 @@ Here’s what I bring to the table:
 Feel free to reach out if you’d like to collaborate on a project or just chat about tech:  
 - [LinkedIn](https://www.linkedin.com/in/tanmay-rajput1/)  
 - [Email](developer3305@gmail.com)
-- 
+  
 Thanks for stopping by! 🚀
