@@ -5,7 +5,7 @@ About Me
 🎓 Education: Pursuing BTech in Computer Science
 🌱 Currently Learning: Advanced web development, system design, and more
 💻 Tech Enthusiast: Always excited to experiment with new tools and frameworks
-📫 Reach Me: https://www.linkedin.com/in/tanmay-rajput1/
+📫 Reach Me: https://www.linkedin.com/in/tanmay-rajput1/ 
 Skills
 Here’s what I bring to the table:
 
