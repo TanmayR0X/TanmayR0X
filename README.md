@@ -1,6 +1,10 @@
 Hi, Tanmay! 👋
 Welcome to my GitHub profile! I'm a passionate BTech Computer Science student with a strong interest in building innovative and user-friendly applications. I enjoy exploring frontend and other technologies to create impactful solutions.
 
+
+
+
+
 About Me
 🎓 Education: Pursuing BTech in Computer Science
 🌱 Currently Learning: Advanced web development, system design, and more
