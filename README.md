@@ -15,7 +15,7 @@ Here’s what I bring to the table:
 - **Concepts**: Responsive Design , Object Oriented Programming  
 
 ## What I’m Working On
-- Enhancing my skills in full-stack development  
+- Enhancing my skills in Front-End development  
 - Building real-world projects to solve everyday problems  
 - Exploring algorithms and data structures to strengthen my problem-solving abilities  
 
