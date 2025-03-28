@@ -1,6 +1,6 @@
 # Hi, I'm Tanmay Rajput! 👋
 
-Welcome to my GitHub profile! I'm a passionate **BTech Computer Science** student with a strong interest in building innovative and user-friendly applications. I enjoy exploring both frontend and backend technologies to create impactful solutions.
+Welcome to my GitHub profile! I'm a passionate **BTech Computer Science** student with a strong interest in building innovative and user-friendly applications. I enjoy exploring both frontend and other technologies to create impactful solutions.
 
 ## About Me
 - 🎓 **Education**: Pursuing BTech in Computer Science  
