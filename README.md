@@ -1,6 +1,6 @@
 # Hi, I'm Tanmay Rajput! 👋
 
-Welcome to my GitHub profile! I'm a passionate **BTech Computer Science** student with a strong interest in building innovative and user-friendly applications. I enjoy exploring both frontend and other technologies to create impactful solutions.
+Welcome to my GitHub profile! I'm a passionate **BTech Computer Science** student with a strong interest in building innovative and user-friendly applications. I enjoy exploring both frontend and backend and other technologies to create impactful solutions.
 
 ## About Me
 - 🎓 **Education**: Pursuing BTech in Computer Science  
@@ -10,12 +10,13 @@ Welcome to my GitHub profile! I'm a passionate **BTech Computer Science** studen
 ## Skills
 Here’s what I bring to the table:  
 - **Languages**: Java, JavaScript  
-- **Frontend**: HTML, CSS, Tailwind CSS, ReactJS  
+- **Frontend**: HTML, CSS, Tailwind CSS, ReactJS , NextJS
+- **Database**: SQL 
 - **Tools**: Git, VS Code
 - **Concepts**: Responsive Design , Object Oriented Programming  
 
 ## What I’m Working On
-- Enhancing my skills in Front-End development  
+- Enhancing my skills in Front-End development and Exploring Backend  
 - Building real-world projects to solve everyday problems  
 - Exploring algorithms and data structures to strengthen my problem-solving abilities  
 
