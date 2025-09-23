@@ -11,12 +11,13 @@ Welcome to my GitHub profile! I'm a passionate **BTech Computer Science** studen
 Here’s what I bring to the table:  
 - **Languages**: Java, JavaScript  
 - **Frontend**: HTML, CSS, Tailwind CSS, ReactJS , NextJS
-- **Database**: SQL 
+-  **Backend**: Node.js, Express.js
+- **Database**: SQL, MongoDB
 - **Tools**: Git, VS Code
-- **Concepts**: Responsive Design , Object Oriented Programming  
+- **Concepts**: Responsive Design , Object Oriented Programming , Version control
 
 ## What I’m Working On
-- Enhancing my skills in Front-End development and Exploring Backend  
+- Enhancing my skills as a Full Stack Devveloper
 - Building real-world projects to solve everyday problems  
 - Exploring algorithms and data structures to strengthen my problem-solving abilities  
 
