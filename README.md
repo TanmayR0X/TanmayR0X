@@ -1,6 +1,9 @@
 # Hi, I'm Tanmay Rajput! 👋
 
-Welcome to my GitHub profile! I'm a passionate **BTech Computer Science** student with a strong interest in building innovative and user-friendly applications. I enjoy exploring both frontend and backend and other technologies to create impactful solutions.
+I’m a **BTech Computer Science** student focused on building impactful web applications. I love transforming ideas into reliable, production-ready solutions using modern web technologies. My goal is to write clean, efficient code that delivers real results while continuously sharpening my skills as a **full-stack developer**.
+
+Here's my [Portfolio](https://tanmay-rajput-portfolio.vercel.app/)
+
 
 ## About Me
 - 🎓 **Education**: Pursuing BTech in Computer Science  
@@ -13,7 +16,7 @@ Here’s what I bring to the table:
 - **Frontend**: HTML, CSS, Tailwind CSS, ReactJS , NextJS
 -  **Backend**: Node.js, Express.js
 - **Database**: SQL, MongoDB
-- **Tools**: Git, VS Code
+- **Tools**: Git, VS Code, Docker, Vercel, Render
 - **Concepts**: Responsive Design , Object Oriented Programming , Version control
 
 ## What I’m Working On
